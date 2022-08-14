@@ -2,7 +2,7 @@
   "name": "411_wk4_day1_react_router",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/CalebAurand/411_wk4_day2_protected_routes",
+  "homepage": "https://calebaurand.github.io/411_wk4_day2_protected_routes/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
