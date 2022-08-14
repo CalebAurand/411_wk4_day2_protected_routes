@@ -4,7 +4,7 @@ import { Card, CardContent, CardActions, Divider } from '@mui/material'
 import cars from '../cars.json'
 
 const Home = () => {
-    console.log('CARS', cars)
+    // console.log('CARS', cars)
     return (
         <div className="card-container">
             {cars.map((car, idx) => (
