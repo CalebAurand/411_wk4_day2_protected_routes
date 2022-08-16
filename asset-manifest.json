@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CalebAurand/411_wk4_day2_protected_routes/static/css/main.909db9c4.chunk.css",
-    "main.js": "/CalebAurand/411_wk4_day2_protected_routes/static/js/main.c255c587.chunk.js",
-    "main.js.map": "/CalebAurand/411_wk4_day2_protected_routes/static/js/main.c255c587.chunk.js.map",
-    "runtime~main.js": "/CalebAurand/411_wk4_day2_protected_routes/static/js/runtime~main.3cf297c9.js",
-    "runtime~main.js.map": "/CalebAurand/411_wk4_day2_protected_routes/static/js/runtime~main.3cf297c9.js.map",
-    "static/js/2.5ddee754.chunk.js": "/CalebAurand/411_wk4_day2_protected_routes/static/js/2.5ddee754.chunk.js",
-    "static/js/2.5ddee754.chunk.js.map": "/CalebAurand/411_wk4_day2_protected_routes/static/js/2.5ddee754.chunk.js.map",
-    "index.html": "/CalebAurand/411_wk4_day2_protected_routes/index.html",
-    "precache-manifest.dd4f6bf5ef480662749591865644ed12.js": "/CalebAurand/411_wk4_day2_protected_routes/precache-manifest.dd4f6bf5ef480662749591865644ed12.js",
-    "service-worker.js": "/CalebAurand/411_wk4_day2_protected_routes/service-worker.js",
-    "static/css/main.909db9c4.chunk.css.map": "/CalebAurand/411_wk4_day2_protected_routes/static/css/main.909db9c4.chunk.css.map"
+    "main.css": "/411_wk4_day2_protected_routes/static/css/main.909db9c4.chunk.css",
+    "main.js": "/411_wk4_day2_protected_routes/static/js/main.749a199b.chunk.js",
+    "main.js.map": "/411_wk4_day2_protected_routes/static/js/main.749a199b.chunk.js.map",
+    "runtime~main.js": "/411_wk4_day2_protected_routes/static/js/runtime~main.8cfe26ec.js",
+    "runtime~main.js.map": "/411_wk4_day2_protected_routes/static/js/runtime~main.8cfe26ec.js.map",
+    "static/js/2.3b7c18c7.chunk.js": "/411_wk4_day2_protected_routes/static/js/2.3b7c18c7.chunk.js",
+    "static/js/2.3b7c18c7.chunk.js.map": "/411_wk4_day2_protected_routes/static/js/2.3b7c18c7.chunk.js.map",
+    "index.html": "/411_wk4_day2_protected_routes/index.html",
+    "precache-manifest.317ac1af78ac7b8790feb23a3fa61a87.js": "/411_wk4_day2_protected_routes/precache-manifest.317ac1af78ac7b8790feb23a3fa61a87.js",
+    "service-worker.js": "/411_wk4_day2_protected_routes/service-worker.js",
+    "static/css/main.909db9c4.chunk.css.map": "/411_wk4_day2_protected_routes/static/css/main.909db9c4.chunk.css.map"
   }
 }
