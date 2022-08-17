@@ -28,7 +28,7 @@ const Login = () => {
     document.cookie = cookie.serialize("loggedIn", "true", {maxAge: 60});
     // set loggedIn = true and max-age = 60*1000 (one minute)
 
-    navigate("/");
+    navigate("/home");
   };
 
   return (

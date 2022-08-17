@@ -18,7 +18,7 @@ const Navigation = () => {
         </Typography>
         <ul className="nav-list">
           <li className="nav-list-item">
-            <Link to="/">Home</Link>
+            <Link to="/home">Home</Link>
           </li>
           <li className="nav-list-item">
             <Link to="/about">About</Link>
@@ -29,7 +29,7 @@ const Navigation = () => {
               document.cookie = cookie.serialize("loggedIn", null, {
                 maxAge: 0,
               });
-              navigate("/login");
+              navigate("/");
             }}
           >
             Logout
